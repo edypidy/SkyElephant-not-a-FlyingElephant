@@ -20,4 +20,4 @@
 
 🐘Evaluation: [평가]
 
-🐘Link      : https://github.com/edypidy/SkyElephant-not-a-FlyingElephant..
+🐘Link      : https://github.com/edypidy/SkyElephant-not-a-FlyingElephant
