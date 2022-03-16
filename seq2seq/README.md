@@ -19,3 +19,15 @@
 너무 정독하는 것 아닌가 싶지만 별 수 있나... 일단 들이받아야지.
 
 🐘Link : https://github.com/edypidy/SkyElephant-not-a-FlyingElephant
+
+
+### 3/16
+🐘Objective : 논문 읽기 적응하자~!
+
+🐘Habit : 매일 공부 시작 전, 논문 30분 보고 pdf 노트에 정리하고 깃허브에 올려놓기
+
+🐘Evaluation: 하다보니 30분짜리가 아니다.. 30분은 진짜 최소시간으로 생각해야할듯.
+3일 동안 했는데 하루에 한 페이지씩 한다. 영어도 영어지만 내껄로 정리하는데 시간이 걸리는 듯하다.
+정리 형식의 필요성이 느껴진다. 너무 중구난방 정리가 아닌가 싶다. 일단 적응 하면서 패턴을 발견해봐야겠다.
+
+🐘Link : https://github.com/edypidy/SkyElephant-not-a-FlyingElephant
