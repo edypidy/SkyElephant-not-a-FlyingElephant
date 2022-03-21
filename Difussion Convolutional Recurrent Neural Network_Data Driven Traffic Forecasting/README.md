@@ -38,3 +38,16 @@
 * 시간 너무 많이 쓴다.. 전공 공부도 하자..
 * 
 🐘Link : https://github.com/edypidy/SkyElephant-not-a-FlyingElephant
+
+
+### 3/21
+🐘Objective : 논문 읽기 적응하자~!
+
+🐘Habit : 매일 공부 시작 전, 논문 30분 보고(최소) pdf 노트에 정리하고 깃허브에 올려놓기
+
+🐘Evaluation: 
+* Network Data Analysis의 Chapter3에서 P의 closed form solution 유도 과정을 발견했다. Methodology_Traffic Forecasting and Appendix2에 Network Data Analysis 부분의 참고를 추가하였다.
+* 그래프에서 W_ij를 네트워크 간 거리로 해석했어서 이해하는데 더 힘들었던 것 같다.(연결 강도로 해석하는 것이 맞아보임) Experiment에 나와있었을 줄이야.. 다음부터 이해 안될땐 Experiment 파트로 컨닝해야겠다.
+* 논문 하나 읽으려고 다른 논문 몇개를 찾아본건지 모르겠다. 핵심내용이나 관련내용을 따로 정리하는 시트가 있으면 좋을 것 같다. (제목, 저자, 학술지, 년도, 방법론, 메트릭, 핵심내용, 관련내용, 결론, 한계)
+
+🐘Link : https://github.com/edypidy/SkyElephant-not-a-FlyingElephant
