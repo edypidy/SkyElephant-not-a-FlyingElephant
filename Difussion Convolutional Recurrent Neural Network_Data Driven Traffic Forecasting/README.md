@@ -51,3 +51,16 @@
 * 논문 하나 읽으려고 다른 논문 몇개를 찾아본건지 모르겠다. 핵심내용이나 관련내용을 따로 정리하는 시트가 있으면 좋을 것 같다. (제목, 저자, 학술지, 년도, 방법론, 메트릭, 핵심내용, 관련내용, 결론, 한계)
 
 🐘Link : https://github.com/edypidy/SkyElephant-not-a-FlyingElephant
+
+
+### 3/22
+🐘Objective : 논문 읽기 적응하자~!
+
+🐘Habit : 매일 공부 시작 전, 논문 30분 보고(최소) pdf 노트에 정리하고 깃허브에 올려놓기
+
+🐘Evaluation: 
+* 오늘의 파트인 Relation with Spectral Graph Convolution은 쌩뚱맞은 내용이 나와서 뭐 이런 순서로 배치를 하나 싶었지만 고졸의 짧은 가방끈이었다. 내가 이해하기론 이 파트는 선행 연구와의 관계를 설명하면서 연구가 서있는 자리를 더 자세히 말하는 파트이다. Abstract에서 다른 중요성에 밀려 차마 밝히지 못한 선행 연구와 수리적 연결성을 Appendix까지 보여주며 알려주는 것.(친절한 저자에 화난 내용이라 그런지 Appendix가 껴버렸나보다.)
+* 내용 때문에 본의 아니게 직교행렬부터 similarity, 대각화, 스펙트럼 분해, 유니타리 행렬까지 복습돼버렸다.. 따로 정리해서 올려놓는 것도 좋을 것 같다.
+
+🐘Link : https://github.com/edypidy/SkyElephant-not-a-FlyingElephant
+
