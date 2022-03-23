@@ -64,3 +64,15 @@
 
 🐘Link : https://github.com/edypidy/SkyElephant-not-a-FlyingElephant
 
+
+### 3/23
+🐘Objective : 논문 읽기 적응하자~!
+
+🐘Habit : 매일 공부 시작 전, 논문 30분 보고(최소) pdf 노트에 정리하고 깃허브에 올려놓기
+
+🐘Evaluation: 
+* 처음으로 읽는대로 이해가 간 파트. 이미 seq2seq 논문을 한번 공부한 상태여서인지 이해에 무리가 가진 않았다.
+* 사실 seq2seq 논문에서도 Model Training 시 매 time step마다 예측값이 들어가는 것이 아닌 ground truth observation이 들어간다는 부분이 train_test의 task불일치, 성능저하를 야기한다고 생각해서 왜 그렇게 했는지 이해가 안 갔었는데 Scheduled Sampling(Bengio et al., 2015)를 읽고 그 부분이 seq2seq의 한계였다는 것을 알았다..
+* Scheduled Sampling에서 소개된 flip training이 진짜 신박했다. 역시 뭐든지 적당한 랜덤화로 이끌고 가야 하나보다.. 기존 모델에서 어떤 것을 랜덤화 시켜서 개선시킬지 보는 것도 재미있을듯 
+
+🐘Link : https://github.com/edypidy/SkyElephant-not-a-FlyingElephant
