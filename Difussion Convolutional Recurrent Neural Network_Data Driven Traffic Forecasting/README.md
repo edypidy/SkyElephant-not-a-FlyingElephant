@@ -88,3 +88,16 @@
 * Experiment는 연구의 꽃이긴 하지만 이미 Methodology, Related Work등을 보면서 어떤 실험들이 나올지 보이긴 했다. Spatial & Temporal을 각각 모델링한 것이 기존의 것 또는 하지 않은 것과 얼마나 성능 차이를 보이는지를 두고 실험을 할테니.. 그래도 잠깐 실험 표를 보니 이러한 실험들의 컨벤션을 파악하기 위해서 잘 봐야겠다는 생각이 들었다..(솔직히 그냥 읽기만 하고 지나가고 싶다.)
 * 
 🐘Link : https://github.com/edypidy/SkyElephant-not-a-FlyingElephant
+
+
+### 3/28
+🐘Objective : 논문 읽기 적응하자~!
+
+🐘Habit : 매일 공부 시작 전, 논문 30분 보고(최소) pdf 노트에 정리하고 깃허브에 올려놓기
+
+🐘Evaluation:
+* 근 며칠간 게을러 터져서 보기만 하고 정리는 안했다.(Experiment랑 Conclusion 정리하기가 왜 그리 귀찮았는지...)
+* Experiment와 Conclusion 정리까지 마치면서 DCRNN 논문을 다 정리해봤다. 물론 이거 하나 볼려고 레퍼런스를 다 뒤지긴 해봤지만 열흘 걸리는게 맞나 싶긴하다.(게으름을 탓하자..)
+* 논문을 처음 읽을때 Experiment부분을 Introduction과 함께 봤다면 좋을뻔했다.(다음 논문부터 그렇게 해봐야겠다.)
+
+🐘Link : https://github.com/edypidy/SkyElephant-not-a-FlyingElephant
