@@ -4,7 +4,7 @@
 
 # Objective
 
-🐘Objective : 논문 읽기 적응하자
+🐘Objective : 논문 읽기 적응하자 + 기초 개념 thm or lemma 하나씩 정리!(3/31일 수정)
 
 🐘Habit     : 매일 공부 시작 전, 논문 30분 보고 pdf 노트에 정리하고 깃허브에 올려놓기
 
