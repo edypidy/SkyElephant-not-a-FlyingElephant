@@ -8,6 +8,8 @@
 
 2. Spectral Graph Theorem기반의 ChebNet의 Generalization이 Diffusion Convolution 연산이라 하는 부분 : 기존의 Spectral Graph Theorem 기반의 ChebNet은 Laplacian을 Spectralize하기 때문에 Diffusion Convolution의 마르코프 과정 상전이 행렬에 대응되는 행렬(Spatial Structure를 나타내는 부분)이 Hermite Matrix(사실상 그냥 대칭행렬)이므로 유향 구조를 나타낼 수 없었다. => (하지만 Diffusion Convolution=은 유향 구조를 가질 수 있다!) => 게다가 무향 그래프에서의 Diffusion Convolution의 Spetial Case가 ChebNet과 Similar하므로(가중치 행렬이 Similar하다.) => Diffusion Convolution은 ChebNet의 일반화이다.
 
+3. Diffusion Convolution의 최종 목적(학습 목적)은 Weighted Directed Graph가 주어져서 마르코프 과정의 상전이 행렬이 정의되고 과정의 충분한 진행수 K가 주어질때, 마르코프 과정이 K번 내에 Stationary Distribution P로 수렴하게 하는 restart probability \alpha를 찾는 것이다.
+
 
 ### 3/18
 🐘Objective : 논문 읽기 적응하자~!
