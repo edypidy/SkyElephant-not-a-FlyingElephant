@@ -1,6 +1,14 @@
 # Yaguang Li, Rose Yu, Cyrus Shahabi, Yan Liu "DIFFUSION CONVOLUTIONAL RECURRENT NEURAL NETWORK: DATA-DRIVEN TRAFFIC FORECASTING"
 
 
+### 3/31 : Updated Review
+* **DCRNN의 Diffusion Process 유도 과정이 잘 이해가 안갔었는데 스터디 준비하고 설명하는 중에 완전히 이해됐다.**
+
+1. Diffusion Convolution 연산 부분 : Weighted Directed Graph g의 Out-Degree Matrix D와 Adjacency Matrix W가 주어졌을 때 마르코프 과정에 쓰일 상전이 행렬은 D_{O}^-1 W로 정의되고, 임의의 마르코프 과정 restart probability \alpha에 대하여 마르코프 과정이 충분히 진행됨에 따라 해당 마르코프 과정은 정상과정의 분포 P로 수렴함이 보장되었음. => (\alpha에 관계 없이 수렴하게 되어있다.) => 그래프(g)의 구조만 주어져있을 때에도 \alpha의 값은 이론상으로 임의의 값이므로 \alpha를 몰라도 마르코프 과정이 P로 수렴한다. => 하지만, 현실의 문제에선 마르코프 과정을 무한히 진행할 수 없으므로 충분한 진행수 K에 따른 적당한 \alpha를 찾아야한다. => \alpha를 학습 파라미터로 둔다.
+
+2. Spectral Graph Theorem기반의 ChebNet의 Generalization이 Diffusion Convolution 연산이라 하는 부분 : 기존의 Spectral Graph Theorem 기반의 ChebNet은 Laplacian을 Spectralize하기 때문에 Diffusion Convolution의 마르코프 과정 상전이 행렬에 대응되는 행렬(Spatial Structure를 나타내는 부분)이 Hermite Matrix(사실상 그냥 대칭행렬)이므로 유향 구조를 나타낼 수 없었다. => (하지만 Diffusion Convolution=은 유향 구조를 가질 수 있다!) => 게다가 무향 그래프에서의 Diffusion Convolution의 Spetial Case가 ChebNet과 Similar하므로(가중치 행렬이 Similar하다.) => Diffusion Convolution은 ChebNet의 일반화이다.
+
+
 ### 3/18
 🐘Objective : 논문 읽기 적응하자~!
 
@@ -103,10 +111,4 @@
 🐘Link : https://github.com/edypidy/SkyElephant-not-a-FlyingElephant
 
 
-
-### 3/31
-* Review : DCRNN의 Diffusion Process 유도 과정이 잘 이해가 안갔었는데 스터디 준비하고 설명하는 중에 완전히 이해됐다.
-* Diffusion Convolution 연산 부분 : Weighted Directed Graph g의 Out-Degree Matrix D와 Adjacency Matrix W가 주어졌을 때 마르코프 과정에 쓰일 상전이 행렬은 D_{O}^-1 W로 정의되고, 임의의 마르코프 과정 restart probability \alpha에 대하여 마르코프 과정이 충분히 진행됨에 따라 해당 마르코프 과정은 정상과정의 분포 P로 수렴함이 보장되었음. => (\alpha에 관계 없이 수렴하게 되어있다.) => 그래프(g)의 구조만 주어져있을 때에도 \alpha의 값은 이론상으로 임의의 값이므로 \alpha를 몰라도 마르코프 과정이 P로 수렴한다. => 하지만, 현실의 문제에선 마르코프 과정을 무한히 진행할 수 없으므로 충분한 진행수 K에 따른 적당한 \alpha를 찾아야한다. => \alpha를 학습 파라미터로 둔다.
-
-* Spectral Graph Theorem기반의 ChebNet의 Generalization이 Diffusion Convolution 연산이라 하는 부분 : 기존의 Spectral Graph Theorem 기반의 ChebNet은 Laplacian을 Spectralize하기 때문에 Diffusion Convolution의 마르코프 과정 상전이 행렬에 대응되는 행렬(Spatial Structure를 나타내는 부분)이 Hermite Matrix(사실상 그냥 대칭행렬)이므로 유향 구조를 나타낼 수 없었다. => (하지만 Diffusion Convolution=은 유향 구조를 가질 수 있다!) => 게다가 무향 그래프에서의 Diffusion Convolution의 Spetial Case가 ChebNet과 Similar하므로(가중치 행렬이 Similar하다.) => Diffusion Convolution은 ChebNet의 일반화이다.
 
