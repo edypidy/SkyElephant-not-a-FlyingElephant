@@ -46,3 +46,16 @@
 * 현실에서 관심 대상 객체가 놓인 공간과 시간은 연속적인데 반해 수집되고 기록되는 데이터는 이산적이므로 현실과 분석 사이에 괴리가 발생한다고 함 + 같은 위치에 놓인 객체들이 서로 주고받는 영향이 패턴을 감추기도 한다고 함. => 수집되는 데이터가 반영하기 어려운 현실세계의 복잡성을 말하는 것으로 이해했다. 심지어 참고문헌 "Spatiotemporal Data Mining: A Computational Perspective" Shekhar et al.(2015)의 Introduction_Challenges 부분에서는 엘니뇨와 라니냐의 예를 들면서 꼭 같은 위치나 공간에 놓이지 않더라도 tele-coupling이 발생할 수 있음을 말하고 있다.(대박...)
 
 🐘Link : https://github.com/edypidy/SkyElephant-not-a-FlyingElephant
+
+
+### 4/4
+🐘Objective : 논문 읽기 적응하자~!
+
+🐘Habit : 매일 공부 시작 전, 논문 30분 보고(최소) pdf 노트에 정리하고 깃허브에 올려놓기
+
+🐘Evaluation:
+* Spatiotemporal Relationship 추출의 어려움(3.1) 중 Non-independent & Non-identical distribution, Interdisciplinary&Combined DataMining(3.1.2 - 3.1.3) 부분을 정리했음.
+* 4/2일에는 해놓고서 정리를 하지 않았다. 정리를 매일 하는 것도 중요하지만 할 수 없는 날엔 '적어도' 30분은 논문을 보자.
+* 정리하는 방식에도 가닥이 잡혀가고 슬슬 적응이 되어가는 것 같다. 그래도 삽질 한 번 한다는 마음으로 일일이 다 정리해보자.
+
+🐘Link : https://github.com/edypidy/SkyElephant-not-a-FlyingElephant
