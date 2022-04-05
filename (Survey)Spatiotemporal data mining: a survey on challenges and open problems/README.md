@@ -59,3 +59,16 @@
 * 정리하는 방식에도 가닥이 잡혀가고 슬슬 적응이 되어가는 것 같다. 그래도 삽질 한 번 한다는 마음으로 일일이 다 정리해보자.
 
 🐘Link : https://github.com/edypidy/SkyElephant-not-a-FlyingElephant
+
+
+### 4/5
+🐘Objective : 논문 읽기 적응하자~!
+
+🐘Habit : 매일 공부 시작 전, 논문 30분 보고(최소) pdf 노트에 정리하고 깃허브에 올려놓기
+
+🐘Evaluation:
+* 정리하고나니 지면이 애매하게 남아서 Trajectory Data Mining 논문에서 문맥에 맞는 Figure만 가져와서 떼웠다.
+* Spatial 데이터를 이산화 시키면서 생기는 문제들을 다룬 파트. MAUP(Modifiable Areal Unit Problem)의 Scale & Zoning Effect에 대해서 소개 되어있었다.
+* MAUP 문제를 회피하는 방법으로 격자 데이터를 사용하는 방법이 있었는데 따로 분석하는 방법론이 2007년 Giannotti.F 에 의해 제안되어 Trajectory Data Mining라는 논문에 소개되었다.(T-Pattern이 중요하다는데 나중에 봐야겠음.)
+
+🐘Link : https://github.com/edypidy/SkyElephant-not-a-FlyingElephant
