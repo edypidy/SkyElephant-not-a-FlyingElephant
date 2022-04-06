@@ -72,3 +72,16 @@
 * MAUP 문제를 회피하는 방법으로 격자 데이터를 사용하는 방법이 있었는데 따로 분석하는 방법론이 2007년 Giannotti.F 에 의해 제안되어 Trajectory Data Mining라는 논문에 소개되었다.(T-Pattern이 중요하다는데 나중에 봐야겠음.)
 
 🐘Link : https://github.com/edypidy/SkyElephant-not-a-FlyingElephant
+
+
+### 4/6
+🐘Objective : 논문 읽기 적응하자~!
+
+🐘Habit : 매일 공부 시작 전, 논문 30분 보고(최소) pdf 노트에 정리하고 깃허브에 올려놓기
+
+🐘Evaluation:
+* Non-Spatiotemporal한 정보들에 의해 발생하는 Data Characteristic Challenge들에 대해 정리함. 데이터의 도메인도 많고 꼭 Spatial, Temporal한 데이터만 있는 것이 아니라 생기는 문제들이다.
+* Specificity는 거의 매번 새로운 분석을 내놓게 하는 어려움을 발생시키는데 솔루션을 제공하는 입장이라면 정말 난처할 문제겠다.. Vagueness는 모든 데이터들의 잠재적 문제라고 생각한다.(특히 SpatioTemporal 데이터에서 특히 어렵다고 주장하는 것 같은데 이건 겪어봐야 알 것 같다.)
+* Dynamicity를 아무리 잘 고려하더라도 2년만에 강산이 바뀌는 세상에 도메인의 evolution을 매번 반영하는 모델을 만드는 것은 갈수록 쉽지 않을 것이다. 사견을 덧붙이면 더 이상 Dynamicity를 잘 모델링하는 것만으로 분포의 evolution을 잘 잡아낼 수 없는 때가 올 것이고 Specificity문제에서 Temporal까지 고려하는 도메인이 우후죽순으로 생겨날 것 같다.(이미 그런 세상인가?..)
+
+🐘Link : https://github.com/edypidy/SkyElephant-not-a-FlyingElephant
