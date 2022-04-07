@@ -85,3 +85,16 @@
 * Dynamicity를 아무리 잘 고려하더라도 2년만에 강산이 바뀌는 세상에 도메인의 evolution을 매번 반영하는 모델을 만드는 것은 갈수록 쉽지 않을 것이다. 사견을 덧붙이면 더 이상 Dynamicity를 잘 모델링하는 것만으로 분포의 evolution을 잘 잡아낼 수 없는 때가 올 것이고 Specificity문제에서 Temporal까지 고려하는 도메인이 우후죽순으로 생겨날 것 같다.(이미 그런 세상인가?..)
 
 🐘Link : https://github.com/edypidy/SkyElephant-not-a-FlyingElephant
+
+
+### 4/7
+🐘Objective : 논문 읽기 적응하자~!
+
+🐘Habit : 매일 공부 시작 전, 논문 30분 보고(최소) pdf 노트에 정리하고 깃허브에 올려놓기
+
+🐘Evaluation:
+* 시간이 없는 관계로 Social, Networked, Heterogeneity and Non-Stationary (3.4.4 - 3.4.5)를 읽고 요약만 했다..
+* 뒤로 갈수록 데이터 구조 자체에서 오는 문제도 있지만 그 외에서 발생하는 문제들도 보이기 시작한다.(도메인에 따라 중요도가 달라질 수 있는 문제들)
+* Heterogeneity and Non-Stationary를 Specificity의 일종으로 착각했었다. 문제의 도메인이 달라질때 발생하는 문제가 Specificity이고 도메인이 아닌 공간, 시간이라면 각각 Heterogeneity와 Non-Stationary 문제이다.
+
+🐘Link : https://github.com/edypidy/SkyElephant-not-a-FlyingElephant
