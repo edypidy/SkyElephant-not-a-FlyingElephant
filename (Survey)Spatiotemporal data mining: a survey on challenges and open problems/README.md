@@ -98,3 +98,16 @@
 * Heterogeneity and Non-Stationary를 Specificity의 일종으로 착각했었다. 문제의 도메인이 달라질때 발생하는 문제가 Specificity이고 도메인이 아닌 공간, 시간이라면 각각 Heterogeneity와 Non-Stationary 문제이다.
 
 🐘Link : https://github.com/edypidy/SkyElephant-not-a-FlyingElephant
+
+
+### 4/10
+🐘Objective : 논문 읽기 적응하자~!
+
+🐘Habit : 매일 잠들기 전, 논문 30분 보고(최소) pdf 노트에 정리하고 깃허브에 올려놓기
+
+🐘Evaluation:
+* 시험기간 동안 수정 : 공부 시작 전 -> 자기 전, + Spatiotemporal Data Mining 공부하기(일단 R코드 중심)
+* Social, Networked, Heterogeneity and Non-Stationary, Limited Access and Privacy, Poor Quality, Big Data and Cloud Computing 파트 정리했다. 이제야 3.5좀 보겠네..(너무 길다)
+* 시험기간 동안에는 조절하자.
+
+🐘Link : https://github.com/edypidy/SkyElephant-not-a-FlyingElephant
